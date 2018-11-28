@@ -20,7 +20,7 @@ When using the Linux specific _reboot()_ system call to reboot the system, the s
   </tr>
   <tr>
     <td><tt>LINUX_REBOOT_MAGIC2A</tt></td>
-    <td>85072278</td>
+    <td>085072278</td>
     <td>0x05121996</td>
     <td>5th of December 1996; Patricia Miranda birthdate</td>
   </tr>
